@@ -1,4 +1,4 @@
-module github.com/awslabs/aws-lambda-go-api-proxy
+module github.com/giustech/aws-lambda-go-api-proxy
 
 go 1.14
 
@@ -12,7 +12,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.1.0
 	github.com/gorilla/mux v1.7.4
 	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect
-	github.com/kataras/iris/v12 v12.2.0-alpha9
+	github.com/kataras/iris/v12 v12.2.0
 	github.com/kataras/tunnel v0.0.4 // indirect
 	github.com/klauspost/compress v1.15.6 // indirect
 	github.com/labstack/echo/v4 v4.9.0
